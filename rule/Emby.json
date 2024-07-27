@@ -4,6 +4,23 @@
       "domain": [
         "bsem.ddns.me"
       ]
+    },
+    {
+      "domain_suffix": [
+        "9521732.xyz",
+        "blueseacdn.com",
+        "blueseamusics.com",
+        "carryz.net",
+        "chirsemby.top",
+        "coemn.com",
+        "emby.moe",
+        "embyplus.org",
+        "loseremby.org",
+        "misakaf.org",
+        "pilipiliultra.com",
+        "pilipiliultra.top",
+        "xmsl.org"
+      ]
     }
   ],
   "version": 1
